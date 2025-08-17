@@ -9,12 +9,12 @@
   "program" : "Energy Engineering",
   "year" : "third year",
   "job-searching" : true,
-  "prev-experience" : ["University of Oxford", "MIT (Research with Dr. Kyle Keane)", "CultFit Fitness Chain", "University Park Undergraduate Association (UPUA)", "Assistive Technology Club (Co-Founder)", "THON Donor and Alumni Relations Chair"],
+  "prev-experience" : ["University of Oxford", "MIT (Research with Dr. Kyle Keane)", "Wolfram Research", "University Park Undergraduate Association (UPUA)", "Assistive Technology Club (Co-Founder)", "THON Donor and Alumni Relations Chair"],
   "goal" : "to create sustainable technologies that drive clean energy and accessibility"
 }
 🔭 What I’m Up To
 
-🌱 Learning: Deepening my knowledge in nuclear fusion, renewable energy systems, and sustainable architecture.
+🌱 Learning: Deepening my knowledge in renewable energy systems, nuclear fusion, and sustainable architecture.
 ⚙️ Building: Designing assistive technology products like the Scythe Keyboard and developing sustainable energy systems like solar panels with 75% efficiency.
 👯 Collaborating: Always open to working on clean energy, sustainability, and assistive tech projects.
 📘 Researching: Exploring ionized plasma generators for nuclear fusion as part of my Oxford Thesis.
