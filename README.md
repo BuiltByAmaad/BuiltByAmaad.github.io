@@ -7,7 +7,7 @@
   "pronouns" : "he/him",
   "school" : "Pennsylvania State University",
   "program" : "Energy Engineering",
-  "year" : "second year",
+  "year" : "third year",
   "job-searching" : true,
   "prev-experience" : ["University of Oxford", "MIT (Research with Dr. Kyle Keane)", "CultFit Fitness Chain", "University Park Undergraduate Association (UPUA)", "Assistive Technology Club (Co-Founder)", "THON Donor and Alumni Relations Chair"],
   "goal" : "to create sustainable technologies that drive clean energy and accessibility"
